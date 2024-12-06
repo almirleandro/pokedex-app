@@ -16,16 +16,16 @@ This is a Proof of Concept application to test the main functionalities of React
 
 ## Homescreen
 
-![Homescreen](./src/assets/Screenshot_Homescreen.jpg)
+<img src="./src/assets/Screenshot_Homescreen.jpg" width="300">
 
 ## Search
 
-![Search](./src/assets/Screenshot_Search.jpg)
+<img src="./src/assets/Screenshot_Search.jpg" width="300">
 
 ## Loading
 
-![Loading](./src/assets/Screenshot_Loading.jpg)
+<img src="./src/assets/Screenshot_Loading.jpg" width="300">
 
 ## Pokemon
 
-![Pokemon](./src/assets/Screenshot_Pokemon.jpg)
+<img src="./src/assets/Screenshot_Pokemon.jpg" width="300">
