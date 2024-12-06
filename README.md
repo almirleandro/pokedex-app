@@ -13,3 +13,19 @@ This is a Proof of Concept application to test the main functionalities of React
 - PokéAPI v2
 
 # Screenshots
+
+## Homescreen
+
+![Homescreen](./src/assets/Screenshot_Homescreen.jpg)
+
+## Search
+
+![Search](./src/assets/Screenshot_Search.jpg)
+
+## Loading
+
+![Loading](./src/assets/Screenshot_Loading.jpg)
+
+## Pokemon
+
+![Pokemon](./src/assets/Screenshot_Pokemon.jpg)
